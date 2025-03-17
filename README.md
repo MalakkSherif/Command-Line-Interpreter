@@ -21,7 +21,7 @@ The CLI can execute standard system commands, including:
 - `cat <file>`: Display the content of a file.
 - `>`: Redirect output to a file (overwrite).
 - `>>`: Redirect output to a file (append).
-- `|`: Pipe to run more than one command.
+- `|`: Pipe output from one command to another.
 - `exit`: Terminates the CLI session.
 - `help`: Displays available commands and their usage.
 
@@ -41,6 +41,14 @@ JUnit is a widely used framework for writing and running unit tests in Java. It 
 3. **Write test methods** using:
    - `@Test` annotation for unit tests.
    - Assertions like `assertEquals()`, `assertTrue()`, and `assertFalse()` to verify expected results.
+
+---
+
+## ⚙️ Technical Details
+- **Programming Language:** Java
+- **Testing Framework:** JUnit
+- **Course:** CS341 - Operating Systems 1
+- **Institution:** Cairo University, Faculty of Computers & Artificial Intelligence
 
 ---
 
