@@ -69,7 +69,7 @@ JUnit is a widely used framework for writing and running unit tests in Java. It 
 - **Malak Sherif** 
 - **Jana Abdallah** 
 - **Raghad Ahmed** 
-- **Afnan Abdelkereem** 
+- **Afnan Baqais** 
 
 ---
 ### 📚 Developed for the **CS341 - Operating Systems 1** Course at **Cairo University**
